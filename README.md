@@ -204,19 +204,3 @@ The tasks page (`/tasks`) fetches data on the client using Redux Toolkit's async
 
 ### Redux Persist
 Tasks are automatically saved to localStorage and restored on page reload, ensuring data persistence across sessions.
-
-## 📝 License
-
-This project is private and not licensed for public use.
-
-## 🤝 Contributing
-
-This is a private project. Contributions are not currently accepted.
-
-## 📧 Contact
-
-For questions or support, please contact the project maintainer.
-
----
-
-Built with ❤️ using Next.js and React
